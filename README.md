@@ -1,3 +1,5 @@
+> **Independent fork** — not affiliated with Uniswap. See NOTICE.md.
+
 # Uniswap Smart Order Router
 
 This repository contains routing logic for the Uniswap V3 protocol.
