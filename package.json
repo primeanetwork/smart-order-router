@@ -128,5 +128,10 @@
   "bugs": {
     "url": "https://github.com/primeanetwork/smart-order-router/issues"
   },
-  "homepage": "https://github.com/primeanetwork/smart-order-router#readme"
+  "homepage": "https://github.com/primeanetwork/smart-order-router#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "primea-alpha"
+  }
 }
