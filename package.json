@@ -1,13 +1,13 @@
 {
   "name": "@uniswap/smart-order-router",
   "version": "4.22.20",
-  "description": "Uniswap Smart Order Router",
+  "description": "Primea fork — independent fork of upstream Uniswap repo",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/smart-order-router.git"
+    "url": "git+ssh://git@github.com/primeanetwork/smart-order-router.git"
   },
   "license": "GPL",
   "keywords": [],
@@ -124,5 +124,9 @@
   },
   "oclif": {
     "commands": "./cli/commands"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/primeanetwork/smart-order-router/issues"
+  },
+  "homepage": "https://github.com/primeanetwork/smart-order-router#readme"
 }
